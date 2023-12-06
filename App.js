@@ -27,7 +27,7 @@ const App = () => {
         }}
       >
         <Tab.Screen
-          name="HOME"
+          name="Home"
           component={HomeScreen}
           options={{
             tabBarLabel: 'Home',
